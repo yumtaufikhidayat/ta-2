@@ -1,2 +1,2 @@
-# ta-2
+# tugas-akhir
 Final year thesis of Institut Teknologi Telkom Purwokerto
